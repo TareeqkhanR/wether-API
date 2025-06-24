@@ -1,4 +1,4 @@
-# weather-API
+c# weather-API
 this is my first repository
 <br>
-Author - Tareeq khan
+Author - Tareeq khan (PU)
